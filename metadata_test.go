@@ -2,10 +2,10 @@ package scalecodec_test
 
 import (
 	"fmt"
-	scalecodec "github.com/itering/scale.go"
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	scalecodec "github.com/social-network/scale.go"
+	"github.com/social-network/scale.go/source"
+	"github.com/social-network/scale.go/types"
+	"github.com/social-network/scale.go/utiles"
 	"io/ioutil"
 	"testing"
 )

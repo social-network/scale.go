@@ -3,9 +3,9 @@ package types_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	"github.com/social-network/scale.go/source"
+	"github.com/social-network/scale.go/types"
+	"github.com/social-network/scale.go/utiles"
 	"reflect"
 	"strings"
 	"testing"

@@ -2,8 +2,8 @@ package scalecodec
 
 import (
 	"fmt"
-	scaleType "github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	scaleType "github.com/social-network/scale.go/types"
+	"github.com/social-network/scale.go/utiles"
 	"github.com/shopspring/decimal"
 	"golang.org/x/crypto/blake2b"
 )

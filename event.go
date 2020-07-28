@@ -1,8 +1,8 @@
 package scalecodec
 
 import (
-	scaleType "github.com/itering/scale.go/types"
-	"github.com/itering/scale.go/utiles"
+	scaleType "github.com/social-network/scale.go/types"
+	"github.com/social-network/scale.go/utiles"
 )
 
 type EventsDecoder struct {

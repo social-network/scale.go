@@ -1,4 +1,4 @@
-module github.com/itering/scale.go
+module github.com/social-network/scale.go
 
 go 1.12
 

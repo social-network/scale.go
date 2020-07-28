@@ -3,8 +3,8 @@ package types
 import (
 	"errors"
 	"fmt"
-	"github.com/itering/scale.go/source"
-	"github.com/itering/scale.go/utiles"
+	"github.com/social-network/scale.go/source"
+	"github.com/social-network/scale.go/utiles"
 	"reflect"
 	"regexp"
 	"strings"
